@@ -1,0 +1,4 @@
+{
+	"extends": "@continuum-ai/config/tsconfig.json",
+	"compilerOptions": {}
+}
